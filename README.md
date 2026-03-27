@@ -3,9 +3,11 @@ Project Title:
 🏨 Hotel Booking Cancellation Analysis Dashboard
 
 Short Description:
+
 This project is an interactive Excel dashboard that analyzes hotel booking and cancellation patterns. It helps understand customer behavior, booking trends, and key factors affecting cancellations using visual insights.
 
 2️⃣ 🛠️ Technologies Used
+
 Microsoft Excel
 Pivot Tables (data summarization ke liye)
 Pivot Charts (visualization ke liye)
@@ -43,4 +45,5 @@ Optimize pricing strategy
 Reduce cancellation rate
 Better demand forecasting
 📊 Screenshots/demo
+https://github.com/himanshuambulkar/Hotel-Booking-analysis-Dashboard/blob/main/hotel%20cancellation%20dashboard.png
 
