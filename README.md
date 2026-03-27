@@ -85,3 +85,5 @@ Better demand forecasting
 
 https://github.com/himanshuambulkar/Hotel-Booking-analysis-Dashboard/blob/main/hotel%20cancellation%20dashboard.png
 
+https://github.com/himanshuambulkar/Hotel-Booking-analysis-Dashboard/blob/main/Pivot%20Table.png
+
